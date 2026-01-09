@@ -1,2 +1,5 @@
 # Intelligent-Control-of-Synthetic-Probiotics-and-AMPs-in-Simulated-Wound-Ecosystems-data
-computers in biology and medicine, 2026, Intelligent Control of Synthetic Probiotics and AMPs in Simulated Wound Ecosystems wet lab data.
+
+Title: Intelligent Control of Synthetic Probiotics and AMPs in Simulated Wound Ecosystems 
+
+Description: All wet lab data of this paper is in the file.
